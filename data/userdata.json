@@ -1,0 +1,139 @@
+{
+    "usuario": "unai",
+    "ejercicios": {
+        "1": "sentadilla",
+        "2": "peso muerto",
+        "3": "press banca",
+        "4": "press militar",
+        "5": "remo",
+        "6": "curl de biceps"
+    },
+    "historico_entrenamientos": [
+        {
+            "fecha": "2023-10-21",
+            "ejercicios": [
+                {
+                    "id": 1,
+                    "sets": 3,
+                    "reps": 10,
+                    "peso": 100
+                },
+                {
+                    "id": 2,
+                    "sets": 3,
+                    "reps": 10,
+                    "peso": 100
+                }
+            ]
+        },
+        {
+            "fecha": "2023-10-22",
+            "ejercicios": [
+                {
+                    "id": 1,
+                    "sets": 3,
+                    "reps": 10,
+                    "peso": 100
+                },
+                {
+                    "id": 2,
+                    "sets": 3,
+                    "reps": 10,
+                    "peso": 100
+                }
+            ]
+        }
+    ],
+    "historico_dietas": [
+        {
+            "fecha": "2023-10-21",
+            "calorias": 2000,
+            "proteinas": 100,
+            "carbohidratos": 200,
+            "grasas": 50
+        },
+        {
+            "fecha": "2023-10-22",
+            "calorias": 2300,
+            "proteinas": 150,
+            "carbohidratos": 250,
+            "grasas": 80
+        }
+    ],
+    "plan_entrenamiento": [
+        {
+            "fecha": "2026-04-22",
+            "ejercicios": [
+                {
+                    "id": 1,
+                    "sets": 3,
+                    "reps": 12,
+                    "peso": 100
+                },
+                {
+                    "id": 2,
+                    "sets": 3,
+                    "reps": 10,
+                    "peso": 100
+                }
+            ]
+        },
+        {
+            "fecha": "2026-04-25",
+            "ejercicios": [
+                {
+                    "id": 1,
+                    "sets": 3,
+                    "reps": 10,
+                    "peso": 100
+                },
+                {
+                    "id": 2,
+                    "sets": 3,
+                    "reps": 10,
+                    "peso": 100
+                }
+            ]
+        }
+    ],
+    "plan_dieta": [
+        {
+            "fecha": "2026-04-22",
+            "calorias": 2000,
+            "proteinas": 100,
+            "carbohidratos": 200,
+            "grasas": 50
+        },
+        {
+            "fecha": "2026-04-25",
+            "calorias": 2300,
+            "proteinas": 150,
+            "carbohidratos": 250,
+            "grasas": 80
+        }
+    ],
+    "entrenamiento_actual": {
+        "fecha": "2026-04-22",
+        "ejercicios": [
+            {
+                "id": 1,
+                "sets": 2,
+                "reps": 10,
+                "peso": 100
+            },
+            {
+                "id": 2,
+                "sets": 3,
+                "reps": 10,
+                "peso": 90
+            }
+        ]
+    },
+    "dieta_actual": {
+        "fecha": "2026-04-22",
+        "calorias": 1500,
+        "proteinas": 70,
+        "carbohidratos": 150,
+        "grasas": 25
+    }
+}
