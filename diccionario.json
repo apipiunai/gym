@@ -82,7 +82,7 @@
             "Domingo": "Domingo"
         },
         "login":{
-            "iniciar_sesion": "Iniciar Sesión",
+            "iniciar_sesion": "Login",
             "registrarse": "Registrarse",
             "contraseña": "Contraseña",
             "confirmar_contraseña": "Confirmar Contraseña",
