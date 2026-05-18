@@ -47,7 +47,10 @@
             "editar_perfil_alumno": "EDITAR PERFIL ALUMNO",
             "datos_alumno": "Datos alumno",
             "editar_perfil_amigo": "EDITAR PERFIL AMIGO",
-            "datos_amigo": "Datos amigo"
+            "datos_amigo": "Datos amigo",
+            "añadir_plantilla": "Añadir Plantilla",
+            "plantillas": "Plantillas"
+
         },
         "planning": {
             "series": "Series",
@@ -89,7 +92,10 @@
             "error_login": "email o contraseña incorrectos",
             "error_passwords": "las contraseñas no coinciden",
             "error_valores": "valores incorrectos",
-            "error_registro": "Ha ocurrido algun error, prueba con otro email"
+            "error_registro": "Ha ocurrido algun error, prueba con otro email",
+            "error_email_invalido": "email no válido",
+            "error_usuario_corto": "el usuario debe tener al menos 3 caracteres",
+            "error_password_corto": "la contraseña debe tener al menos 6 caracteres"
         },
         "layout": {
             "planning": "Planificación",
@@ -145,7 +151,9 @@
             "editar_perfil_alumno": "EDIT PROFILE STUDENT",
             "datos_alumno": "Student data",
             "editar_perfil_amigo": "EDIT PROFILE FRIEND",
-            "datos_amigo": "Friend data"
+            "datos_amigo": "Friend data",
+            "añadir_plantilla": "Add Template",
+            "plantillas": "Templates"
         },
         "planning": {
             "series": "Sets",
@@ -187,7 +195,10 @@
             "error_login": "Incorrect email or password",
             "error_passwords": "Passwords do not match",
             "error_valores": "Incorrect values",
-            "error_registro": "An error occurred, try another email"
+            "error_registro": "An error occurred, try another email",
+            "error_email_invalido": "invalid email",
+            "error_usuario_corto": "username must be at least 3 characters",
+            "error_password_corto": "password must be at least 6 characters"
         },
         "layout": {
             "planning": "Planning",
