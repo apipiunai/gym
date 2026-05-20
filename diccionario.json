@@ -99,8 +99,19 @@
         },
         "layout": {
             "planning": "Planificación",
+            "venus-ai": "Venus AI",
             "perfil": "Perfil",
             "cerrar_sesion": "Cerrar Sesión"
+        },
+        "venus_ai": {
+            "editar_entrenamiento": "Editar Entrenamiento",
+            "editar_dieta": "Editar Dieta",
+            "fecha": "Fecha",
+            "propuesta_titulo": "Propuesta de Planificación de Venus AI",
+            "aplicar_propuesta": "Aplicar Propuesta",
+            "nota_placeholder": "Añade una nota al modelo...",
+            "estado_vacio": "Venus AI se basa en tus datos personales como el peso y la altura y tus registros del ultimo mes para generar un plan a medida \n\n\n Añade una nota y pulsa enviar para realizar la consulta al modelo.",
+            "no_plantillas": "No hay plantillas disponibles"
         }
     },
     "ingles": {
@@ -202,8 +213,19 @@
         },
         "layout": {
             "planning": "Planning",
+            "venus-ai": "Venus AI",
             "perfil": "Profile",
             "cerrar_sesion": "Logout"
+        },
+        "venus_ai": {
+            "editar_entrenamiento": "Edit Training",
+            "editar_dieta": "Edit Diet",
+            "fecha": "Date",
+            "propuesta_titulo": "Venus AI Planning Proposal",
+            "aplicar_propuesta": "Apply Proposal",
+            "nota_placeholder": "Add a note to the model...",
+            "estado_vacio": "Venus AI uses your personal data such as weight and height and your records from the last month to generate a personalised plan \n\n\n Add a note and press send to query the model.",
+            "no_plantillas": "No templates available"
         }
     }
 }
